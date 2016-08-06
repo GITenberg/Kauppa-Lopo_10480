@@ -1,0 +1,30 @@
+_repo: Kauppa-Lopo_10480
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Canth, Minna
+    aliases:
+    - Canth, Ulrika Vilhelmina Johnsson
+    - Johnsson, Ulrika Vilhelmina
+    birthdate: 1844
+    deathdate: 1897
+    gutenberg_agent_id: '3553'
+    url: http://www.gutenberg.org/2009/agents/3553
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Minna_Canth
+    - http://en.wikipedia.org/wiki/Minna_Canth
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10480'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish fiction'
+- GITenberg
+title: Kauppa-Lopo
+url: http://www.gutenberg.org/ebooks/10480
